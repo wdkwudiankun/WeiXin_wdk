@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  WeiXin_wdk
+//
+//  Created by KUN on 2017/6/21.
+//  Copyright © 2017年 WuDiankun. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#define DeviceHeight [UIScreen mainScreen].bounds.size.height
+#define DeviceWidth  [UIScreen mainScreen].bounds.size.width
+
+
+
+#endif /* PrefixHeader_pch */
