@@ -1,0 +1,2 @@
+# WeiXin_wdk
+通过仿写GSD_weixin微信朋友圈，解读其中的一些技术点，大量的注释，新手学习ios开发实战的不错demo
